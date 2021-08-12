@@ -1,5 +1,7 @@
 # Anilo Test Api
 
+## BASE URL http://13.212.206.95:81
+
 ## AUTH
 
 | Service Name  | Service API |
